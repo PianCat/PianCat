@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**PianCat/PianCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Higanoneko/Higanoneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![License Persona](https://lcti.hydroroll.team/badge/mpl-2.0.svg)](https://lcti.hydroroll.team)
+
 <div>
-    <a href="https://github.com/PianCat">
-        <img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api?username=PianCat&show_icons=true&theme=transparent&layout=compact&card_width=400" />
+    <a href="https://github.com/Higanoneko">
+        <img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api?username=Higanoneko&show_icons=true&theme=transparent&layout=compact&card_width=400" />
     </a>
 </div>
 
@@ -25,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-    <a href="https://github.com/PianCat">
-        <img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api/top-langs/?username=PianCat&layout=compact&hide=vue,php&card_width=400" />
+    <a href="https://github.com/Higanoneko">
+        <img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api/top-langs/?username=Higanoneko&layout=compact&hide=vue,php&card_width=400" />
     </a>
 </div>
